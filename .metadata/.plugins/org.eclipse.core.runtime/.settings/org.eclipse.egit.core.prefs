@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\yoges\\git\\room_booking\\.git;C\:\\Users\\yoges\\git\\room_booking1\\.git;C\:\\Users\\yoges\\git\\repository2\\.git;C\:\\Users\\yoges\\git\\new__\\room_booking\\.git;C\:\\Users\\yoges\\git\\repository\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\yoges\\git\\room_booking\\.git;C\:\\Users\\yoges\\git\\room_booking1\\.git;C\:\\Users\\yoges\\git\\repository2\\.git;C\:\\Users\\yoges\\git\\new__\\room_booking\\.git;C\:\\Users\\yoges\\git\\repository\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Room_Booking\\.git;C\:\\Users\\yoges\\git\\room_booking\\.git;C\:\\Users\\yoges\\git\\room_booking1\\.git;C\:\\Users\\yoges\\git\\new__\\room_booking\\.git;C\:\\Users\\yoges\\git\\repository2\\.git;C\:\\Users\\yoges\\git\\repository\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\yoges\\git\\room_booking\\.git;C\:\\Users\\yoges\\git\\room_booking1\\.git;C\:\\Users\\yoges\\git\\new__\\room_booking\\.git;C\:\\Users\\yoges\\git\\repository2\\.git;C\:\\Users\\yoges\\git\\repository\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
